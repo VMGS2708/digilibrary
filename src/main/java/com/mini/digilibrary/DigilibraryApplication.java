@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DigilibraryApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Printing from main");
+		System.out.println("First print from main");
 		SpringApplication.run(DigilibraryApplication.class, args);
 	}
 
